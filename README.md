@@ -2,21 +2,37 @@
 This is the repository containing all of the final project attributions and assets used throughout the project
 
 ##Resources
+
 ----------------------------------------------------------------------------------------------------------------
+
 ###Icons
+
 [Cloudy](https://www.flaticon.com/free-icon/cloudy_2932445?term=weather&page=1&position=2&page=1&position=2&related_id=2932445&origin=search)
+
 [Sprout](https://www.flaticon.com/free-icon/sprout_3077346?term=seeds&page=1&position=2&page=1&position=2&related_id=3077346&origin=search)
+
 [Data](https://www.flaticon.com/free-icon/data_993762?term=data&page=1&position=4&page=1&position=4&related_id=993762&origin=search)
+
 [User](https://www.flaticon.com/free-icon/user_848043?term=user&page=1&position=10&page=1&position=10&related_id=848043&origin=search)
+
 [Drop](https://www.flaticon.com/free-icon/drop_606797?term=rain&page=1&position=34&page=1&position=34&related_id=606797&origin=search)
+
 [Weather Pack](https://www.flaticon.com/packs/weather-78?k=1618847575145)
+
 [Fire](https://www.flaticon.com/free-icon/fire_2985511?term=fire&page=1&position=10&page=1&position=10&related_id=2985511&origin=search)
+
 [Settings](https://www.flaticon.com/free-icon/settings_3524636?term=settings&page=1&position=5&page=1&position=5&related_id=3524636&origin=search)
+
 [Vault](https://www.flaticon.com/free-icon/vault_291122?term=vault&page=1&position=13&page=1&position=13&related_id=291122&origin=search)
+
 [Star](https://www.flaticon.com/free-icon/star_786331?term=star&page=1&position=5&page=1&position=5&related_id=786331&origin=search)
+
 [Phone](https://www.flaticon.com/free-icon/phone_2947981?term=phone&page=1&position=11&page=1&position=11&related_id=2947981&origin=search)
+
 [Arroba](https://www.flaticon.com/download/icon/684816?icon_id=684816&author=1&team=1&keyword=Arroba&pack=684800&style=Lineal&style_id=4&format=png&color=%23000000&colored=1&size=512&selection=1&premium=0&search=email&search=email)
+
 ###Images
+
 [1](https://unsplash.com/photos/N3BQHYOVq5E?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [2](https://unsplash.com/photos/NR_tXTuyTak?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [3](https://unsplash.com/photos/pZ-XFIrJMtE?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
@@ -38,14 +54,23 @@ This is the repository containing all of the final project attributions and asse
 [19](https://unsplash.com/photos/geYw6L4-WU8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [20](https://unsplash.com/photos/geYw6L4-WU8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [21](https://unsplash.com/photos/6AAptb2kBak?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
 ###Other Sources
+
 [Hyrdoponics](https://en.wikipedia.org/wiki/Hydroponics)
+
 [Svalbard Seed Vault](https://www.croptrust.org/our-work/svalbard-global-seed-vault/)
+
 [Mars Journal](http://phoenix.lpl.arizona.edu/mars143.php)
+
 [Mars Weather](https://www.weather.gov/fsd/mars)
+
 [Mars Facts](https://mars.nasa.gov/all-about-mars/facts/)
+
 [Google Mars](https://www.google.com/mars/)
+
 ####Similar Apps
+
 1. Notes
 2. Weather
 3. Maps
