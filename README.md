@@ -1,11 +1,11 @@
 # IDMX-208-FinalProject-Assets-BlajsaTimothy
 This is the repository containing all of the final project attributions and assets used throughout the project
 
-##Resources
+## Resources
 
 ----------------------------------------------------------------------------------------------------------------
 
-###Icons
+### Icons
 
 [Cloudy](https://www.flaticon.com/free-icon/cloudy_2932445?term=weather&page=1&position=2&page=1&position=2&related_id=2932445&origin=search)
 
@@ -31,7 +31,7 @@ This is the repository containing all of the final project attributions and asse
 
 [Arroba](https://www.flaticon.com/download/icon/684816?icon_id=684816&author=1&team=1&keyword=Arroba&pack=684800&style=Lineal&style_id=4&format=png&color=%23000000&colored=1&size=512&selection=1&premium=0&search=email&search=email)
 
-###Images
+### Images
 
 [1](https://unsplash.com/photos/N3BQHYOVq5E?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [2](https://unsplash.com/photos/NR_tXTuyTak?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
@@ -55,7 +55,7 @@ This is the repository containing all of the final project attributions and asse
 [20](https://unsplash.com/photos/geYw6L4-WU8?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 [21](https://unsplash.com/photos/6AAptb2kBak?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
-###Other Sources
+### Other Sources
 
 [Hyrdoponics](https://en.wikipedia.org/wiki/Hydroponics)
 
@@ -69,7 +69,7 @@ This is the repository containing all of the final project attributions and asse
 
 [Google Mars](https://www.google.com/mars/)
 
-####Similar Apps
+#### Similar Apps
 
 1. Notes
 2. Weather
